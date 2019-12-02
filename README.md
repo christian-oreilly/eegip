@@ -1,3 +1,6 @@
+# EEG IP package
+
+In developement. Not meant for reuse by external party yet. Project in constant flux!
 
 # Campaings
 Campaign have four levels, and for each levels, there is 
